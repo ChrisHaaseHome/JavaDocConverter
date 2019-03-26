@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaDocConverter", "JavaDocConverter\JavaDocConverter.csproj", "{5CD588EC-BC35-4475-B9F8-219E569133F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD588EC-BC35-4475-B9F8-219E569133F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD588EC-BC35-4475-B9F8-219E569133F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD588EC-BC35-4475-B9F8-219E569133F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD588EC-BC35-4475-B9F8-219E569133F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F76A9305-3B4A-445F-852E-0CB226B037F0}
+	EndGlobalSection
+EndGlobal
